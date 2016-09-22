@@ -5,7 +5,11 @@
 <html>
   <head>
       <title>ACTIVIDAD 03</title>
-      <?php
+   
+      
+  </head>
+  <body>
+     <?php
         echo "César";
        ?>
        <br>
@@ -17,7 +21,5 @@
         echo "García";
         ?>
         <br>
-      
-  </head>
-  <body>
+        </body>
 </html>
